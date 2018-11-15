@@ -1,0 +1,24 @@
+.brandName {
+    color: white;
+    text-align: left;
+    padding-top: 180px;
+    padding-bottom: 180px;
+    font-size: 50px;
+    font-family: Georgia, sans-serif;
+  }
+
+  .brandName__title {
+      border: 7px solid white;
+      width: 510px;
+      margin: auto; 
+  }
+
+  .betaNotice {
+    min-height: 30px;
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(108, 49, 131);
+    opacity: 0.9;
+    color: white;
+    position: fixed;
+  }
